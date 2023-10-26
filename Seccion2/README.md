@@ -4,7 +4,7 @@ En esta sección quiero que nos enfoquemos en varias introducciones a Node, punt
 
 [Preguntas comunes sobre Node](./PreguntasComunesSobreNode/README.md)
 
-Hola Mundo en Node
+[Hola Mundo en Node](./HelloWorld/index.js)
 
 Laboratorio con FileSystem
 
