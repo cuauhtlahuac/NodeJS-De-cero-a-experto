@@ -13,3 +13,4 @@ Clean Architecture, DDD, WebHooks, WebSockets, Tareas automáticas, Despliegues,
 
 [Instalaciones](./INSTALACIONES.md)
 
+[Sección 2](./Seccion2/README.md)
