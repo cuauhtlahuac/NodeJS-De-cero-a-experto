@@ -6,7 +6,7 @@ En esta sección quiero que nos enfoquemos en varias introducciones a Node, punt
 
 [Hola Mundo en Node](./HelloWorld/index.js)
 
-Laboratorio con FileSystem
+[Laboratorio con FileSystem](./FileSystem/index.js)
 
 Code Execution
 
