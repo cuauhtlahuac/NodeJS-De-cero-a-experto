@@ -10,7 +10,8 @@ Todas las notas del curso
 ## Acerca de este curso
 Clean Architecture, DDD, WebHooks, WebSockets, Tareas automáticas, Despliegues, TypeScript, Edge, Testing y más.
 
+[Presentaciones](https://cursos.devtalles.com/pages/mas-talento)
 
-[Instalaciones](./INSTALACIONES.md)
+[Sección 1](./INSTALACIONES.md)Instalaciones
 
 [Sección 2](./Seccion2/README.md)

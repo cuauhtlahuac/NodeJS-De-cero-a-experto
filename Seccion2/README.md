@@ -8,6 +8,6 @@ En esta sección quiero que nos enfoquemos en varias introducciones a Node, punt
 
 [Laboratorio con FileSystem](./FileSystem/index.js)
 
-Code Execution
+[Code Execution Order](./CodeExecutionOrder/index.js)
 
-Event Loop
+[Event Loop](./EventLoop/README.md)
