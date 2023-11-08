@@ -12,6 +12,8 @@ Clean Architecture, DDD, WebHooks, WebSockets, Tareas automáticas, Despliegues,
 
 [Presentaciones](https://cursos.devtalles.com/pages/mas-talento)
 
-[Sección 1](./INSTALACIONES.md)Instalaciones
+[Sección 1.](./INSTALACIONES.md) Instalaciones
 
-[Sección 2](./Seccion2/README.md)
+[Sección 2.](./Seccion2/README.md) Fundamentos node Primeros Pasos
+
+[Sección 3.](./Seccion3/README.md) Desarrollando en node 
