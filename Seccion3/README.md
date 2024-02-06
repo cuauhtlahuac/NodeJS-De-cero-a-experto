@@ -8,9 +8,9 @@ Puntualmente veremos:
 
 Node Modules
 
-Scripts
+[Scripts](./package.json)
 
-Importaciones y Exportaciones
+[Importaciones y Exportaciones](./src/app.js)
 
 Módulos
 

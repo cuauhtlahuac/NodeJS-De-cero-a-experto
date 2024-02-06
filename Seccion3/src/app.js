@@ -1,3 +1,3 @@
-require("./js-fundation")
+const { template } = require("./js-fundation")
 
-console.log("Hola mundo desde app.js");
+console.log(template);

@@ -5,3 +5,7 @@ const template =  `
         <p>Hola mundo</p>
     </div>
 `
+
+module.exports = {
+    template,
+}
