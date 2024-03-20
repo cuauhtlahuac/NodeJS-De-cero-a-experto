@@ -12,7 +12,11 @@ Node Modules
 
 [Importaciones y Exportaciones](./src/app.js)
 
-Módulos
+[Módulos](./src/package.json): Nodemon. En la info de npm se puede ver las [dependencias del paquete](https://www.npmjs.com/package/nodemon?activeTab=dependencies)
+
+[Destructuración con process](./src/js-fundation/02-destructuring.js)
+
+[26. Depuración de aplicaciones de Node]()
 
 Reforzamiento de JS
 
