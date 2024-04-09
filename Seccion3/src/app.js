@@ -1,4 +1,4 @@
-const { template } = require("./js-fundation/01Template");
+const { template } = require("./js-fundation/01-Template");
 require('./js-fundation/02-destructuring');
 require('./js-fundation/03-depuration')
 const { getUserById } = require('./js-fundation/04-callbacks')
