@@ -1,6 +1,8 @@
-# Sección 3: Desarrollando en node 
+# Sección 3: Desarrollando en node
 
 En esta sección veremos generalidades de Node y a la vez, aprovechamos para explicar ciertos conceptos de JavaScript que son necesarios para casi cualquier aplicación de Node.
+
+Para que el código funcione debes usar la version de **node 16+**
 
 Puntualmente veremos:
 
@@ -18,13 +20,13 @@ Node Modules
 
 [26. Depuración de aplicaciones de Node]()
 
-Reforzamiento de JS
+### Reforzamiento de JS
 
 [Callbacks](./src/js-fundation/04-callbacks/README.md)
 
-Arrow Functions
+Arrow Functions - Tarea: Hacer todas las funciones previas a arrow funtion.
 
-Factory Functions
+[Factory Functions](./src/js-fundation/05-factory-functions/)
 
 Promises
 

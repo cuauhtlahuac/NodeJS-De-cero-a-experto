@@ -1,7 +1,9 @@
-const { template } = require("./js-fundation/01-Template");
-require('./js-fundation/02-destructuring');
-require('./js-fundation/03-depuration')
+// const { template } = require("./js-fundation/01-Template");
+// require('./js-fundation/02-destructuring');
+// require('./js-fundation/03-depuration')
 const { getUserById } = require('./js-fundation/04-callbacks')
+
+require('./js-fundation/05-factory-functions')
 
 getUserById( 1, function(error, user){
     if(error){
@@ -10,5 +12,3 @@ getUserById( 1, function(error, user){
 
     console.log(user);
 })
-
-console.log(template);
