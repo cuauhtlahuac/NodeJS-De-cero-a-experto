@@ -26,7 +26,9 @@ Node Modules
 
 Arrow Functions - Tarea: Hacer todas las funciones previas a arrow funtion.
 
-[Factory Functions](./src/js-fundation/05-factory-functions/)
+[Factory Functions](./src/js-fundation/05-factory-functions/README.md)
+
+[Patrón adaptador](./src/js-fundation/05-factory-functions/README.md)
 
 Promises
 
