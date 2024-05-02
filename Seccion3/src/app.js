@@ -1,14 +1,23 @@
-// const { template } = require("./js-fundation/01-Template");
-// require('./js-fundation/02-destructuring');
-// require('./js-fundation/03-depuration')
-const { getUserById } = require('./js-fundation/04-callbacks')
+const { personBuilder } = require("./js-fundation/05-factory-functions");
+const {
+    getFullName,
+  } = require("./plugins/faker.plugin");
+  const { getAge } = require("./plugins/get-age.plugin");
+  const { getUUID } = require("./plugins/uuid.plugin");
+  const { formatBdate } = require("./utils");
 
-require('./js-fundation/05-factory-functions')
+require("./js-fundation/05-factory-functions");
 
-getUserById( 1, function(error, user){
-    if(error){
-        throw new Error(error)
-    }
+const modules = {
+    getAge,
+    getFullName,
+    getUUID,
+    formatBdate,
+};
 
-    console.log(user);
-})
+const person = { name: "Fernando Herrera", birthdate: "1985-10-21" };
+const randomPerson = personBuilder(modules)();
+const fer = personBuilder(modules)(person);
+
+console.log(fer);
+console.log(randomPerson);
